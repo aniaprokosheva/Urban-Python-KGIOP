@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Прокошева Анна
+- https://colab.research.google.com/drive/1xPufszKWanrRgSjAzI-XZP_FD2HFMzQz#scrollTo=C6lYm0meiwZi
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
